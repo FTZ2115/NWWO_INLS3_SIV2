@@ -10,7 +10,7 @@ Aby uruchomić projekt należy zainstalować Pythona w wersji minimum 3.12, nast
 
 
 
-
+bad
 
 
 
