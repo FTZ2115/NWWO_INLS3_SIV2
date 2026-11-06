@@ -43,4 +43,7 @@ Należy również doinstalować bilbioteki Numpy & Pandas
 
 ## Wersje projektu
 Wersja testowa 1.0
+
+## Zmiany projektowe
+Pierwsza wersja projektu została przygotowana w celach edukacyjnych, aby rozwijać umiejętności programowania w Pythonie oraz obsługi Git i GitHub.
 Wersja testowa 1.0 (stabilna)
