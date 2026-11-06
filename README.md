@@ -16,5 +16,11 @@ Aby uruchomić projekt należy zainstalować Pythona w wersji minimum 3.12, nast
 - Analiza i przetwarzanie danych przy użyciu biblioteki Pandas.
 - Przykładowe analizy i wizualizacje w Jupyter Notebook.
 
+## Funkcjonalności
+- Dodawanie, edycja i usuwanie danych w bazie SQLite.
+- Wykorzystanie SQLAlchemy do mapowania obiektowo-relacyjnego (ORM).
+- Analiza i przetwarzanie danych przy użyciu biblioteki Pandas.
+- Przykładowe analizy i wizualizacje w Jupyter Notebook.
+
 ## Wersje projektu
 Wersja testowa 1.0
