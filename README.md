@@ -38,10 +38,21 @@ bad
 
 Należy również doinstalować bilbioteki Numpy & Pandas
 
+Zaleca się stworzenie wirtualnego środowiska poleceniem:
+```bash
+python -m venv .venv
+```
 ## Autorzy projektu
 - Magda Madej - twórca całego projektu
 
+## 📝 Licencja
+Projekt open-source do celów naukowych.
+
 ## Wersje projektu
+Wersja testowa 1.1
+
+## 📌 Status
+Projekt ukończony w celach edukacyjnych. Wszelkie uwagi i sugestie są mile widziane!
 Wersja testowa 1.0
 
 ## Zmiany projektowe
