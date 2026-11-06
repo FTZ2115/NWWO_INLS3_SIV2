@@ -16,6 +16,16 @@ Aktywacja środowiska
 .venv\Scripts\Activate.ps1
 ```
 
+
+
+
+bad
+
+
+
+
+
+
 ## Autorzy projektu
 - Magda Madej - twórca całego projektu
 
