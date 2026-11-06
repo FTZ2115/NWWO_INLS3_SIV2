@@ -12,3 +12,6 @@ Aby uruchomić projekt należy zainstalować Pythona w wersji minimum 3.12, nast
 
 ## Wersje projektu
 Wersja testowa 1.0
+
+## Zmiany projektowe
+Pierwsza wersja projektu została przygotowana w celach edukacyjnych, aby rozwijać umiejętności programowania w Pythonie oraz obsługi Git i GitHub.
