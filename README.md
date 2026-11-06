@@ -45,6 +45,14 @@ python -m venv .venv
 ## Autorzy projektu
 - Magda Madej - twórca całego projektu
 
+## Funkcjonalności
+- Dodawanie, edycja i usuwanie danych w bazie SQLite.
+- Wykorzystanie SQLAlchemy do mapowania obiektowo-relacyjnego (ORM).
+- Analiza i przetwarzanie danych przy użyciu biblioteki Pandas.
+- Przykładowe analizy i wizualizacje w Jupyter Notebook.
+
+## Wersje projektu
+Wersja testowa 1.0
 ## 📝 Licencja
 Projekt open-source do celów naukowych.
 
