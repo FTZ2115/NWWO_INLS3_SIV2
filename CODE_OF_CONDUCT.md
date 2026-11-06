@@ -27,3 +27,5 @@
 - wykluczeniem z udziału w projekcie
 
 **Współpraca, wzajemny szacunek i odpowiedzialność za własną pracę są podstawą rozwoju tego projektu.**
+
+Dzięki za współprace
