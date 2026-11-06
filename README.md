@@ -7,6 +7,11 @@ Projekt prostej aplikacji w języku Python stworzony do nauki Gita i pracy na Gi
 ## Uruchamianie projektu
 Aby uruchomić projekt należy zainstalować Pythona w wersji minimum 3.12, następnie rozpakować paczkę z plikami i wykonać polecenie `python main.py`
 
+Zaleca się stworzenie wirtualnego środowiska poleceniem
+```bash
+python -m venv .venv
+```
+
 ## Autorzy projektu
 - Magda Madej - twórca całego projektu
 
