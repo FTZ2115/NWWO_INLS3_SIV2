@@ -17,6 +17,25 @@ Zainstaluj wymagane biblioteki:
 pip install -r requirements.txt
 ```
 
+Zaleca się stworzenie wirtualnego środowiska poleceniem
+```bash
+python -m venv .venv
+```
+Aktywacja środowiska
+```bash
+.venv\Scripts\Activate.ps1
+```
+
+
+
+
+bad
+
+
+
+
+
+
 ## Autorzy projektu
 - Magda Madej - twórca całego projektu
 
