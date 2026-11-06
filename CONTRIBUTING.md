@@ -14,7 +14,10 @@ cd REPO
 
 3. Utwórz wirtualne środowisko
 ```bash
+# windows(powershell)
 python -m venv .venv
+# macOS/Linux
+source .venv/bin/activate
 ```
 
 4. Aktywuj środowisko i zainstaluj zależności, jeżeli projekt zawiera plik requirements.txt
