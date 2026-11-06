@@ -36,8 +36,11 @@ bad
 
 
 
+Należy również doinstalować bilbioteki Numpy & Pandas
+
 ## Autorzy projektu
 - Magda Madej - twórca całego projektu
 
 ## Wersje projektu
+Wersja testowa 1.0
 Wersja testowa 1.0 (stabilna)
