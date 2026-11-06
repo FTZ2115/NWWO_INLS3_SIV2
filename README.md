@@ -11,6 +11,10 @@ Aby uruchomić projekt należy zainstalować Pythona w wersji minimum 3.12, nast
 
 
 
+
+
+
+
 ## Autorzy projektu
 - Magda Madej - twórca całego projektu
 
